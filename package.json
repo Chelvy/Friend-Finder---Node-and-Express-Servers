@@ -1,0 +1,31 @@
+{
+    "name": "friend-finder---node-and-express-servers",
+    "permissions": [
+        "https://www.google.com/"
+    ],
+    "version": "1.0.0",
+    "description": "In this activity, I'll build a compatibility-based \"FriendFinder\" application -- basically a dating app. This full-stack site will take in results from users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.  I will be using Express to handle routing.",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "express-path": "^0.3.8",
+        "package-json": "^6.5.0",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Chelvy/Friend-Finder---Node-and-Express-Servers.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Chelvy/Friend-Finder---Node-and-Express-Servers/issues"
+    },
+    "homepage": "https://github.com/Chelvy/Friend-Finder---Node-and-Express-Servers#readme"
+}
